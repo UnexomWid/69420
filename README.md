@@ -16,7 +16,7 @@ By using the magic of BigIntegers and permutations, this program computes and pr
 
 # When does the program stop?
 
-The program will stop when random people will ask me to fix their broken printers just because I'm a programmer.
+The program will stop when random people will stop asking me to fix their broken printers just because I'm a programmer.
 
 That is, never.
 
